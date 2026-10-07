@@ -1,0 +1,20 @@
+{
+  "name": "sniffington",
+  "displayName": "Sniffington",
+  "version": "1.0.0",
+  "description": "See what people say about your brand on Reddit, X, TikTok, YouTube, Instagram, Facebook, LinkedIn, Threads, Bluesky, Hacker News and the news. Today's brief, mentions, analytics and a check on any brand, from Claude.",
+  "author": {
+    "name": "Sniffington",
+    "email": "hello@sniffington.com",
+    "url": "https://sniffington.com"
+  },
+  "homepage": "https://sniffington.com/agents/claude-code",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "social listening",
+    "brand monitoring",
+    "mentions",
+    "reddit",
+    "sentiment"
+  ]
+}
