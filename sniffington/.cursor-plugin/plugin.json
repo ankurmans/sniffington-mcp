@@ -1,0 +1,9 @@
+{
+  "name": "sniffington",
+  "version": "1.0.1",
+  "description": "Read your brand mentions, today's brief and competitor conversations with Sniffington.",
+  "author": { "name": "Sniffington", "email": "hello@sniffington.com" },
+  "homepage": "https://sniffington.com/agents",
+  "logo": "assets/logo.png",
+  "mcpServers": "./.mcp.json"
+}

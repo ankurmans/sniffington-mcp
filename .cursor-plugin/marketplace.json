@@ -1,0 +1,12 @@
+{
+  "name": "sniffington",
+  "owner": { "name": "Sniffington", "email": "hello@sniffington.com" },
+  "plugins": [
+    {
+      "name": "sniffington",
+      "source": "./sniffington",
+      "description": "Your brand mentions and competitor conversations in your assistant.",
+      "version": "1.0.1"
+    }
+  ]
+}
